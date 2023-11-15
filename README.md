@@ -15,7 +15,6 @@ X   XXXXXXXXXXXX   X
 X                  X
 XXXXXXXXXXXXXXXXXXXX
 ```
-
 ## Tasks
 ### Understanding the Code
 1. As we look over the code, we see:
